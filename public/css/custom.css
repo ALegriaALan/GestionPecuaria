@@ -1,0 +1,23 @@
+/* Alertify */
+.alertify-notifier .ajs-message.ajs-error{
+    color: #fff;
+    background: rgba(217, 92, 92, 0,95);
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0,5);
+}
+
+/* Logo */
+.tr-dash-logo {
+    width: 100%;
+}
+
+/* Paginator */
+.page-item.active .page-link {
+    z-index: 1;
+    color: #ffffff;
+    background-color: #58b05c;
+    border-color: #4caf50;
+}
+
+.page-link {
+    color: #4caf50;
+}
